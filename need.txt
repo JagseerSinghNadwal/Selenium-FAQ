@@ -1,0 +1,21 @@
+You are not showing minimal capabilities in using selenium tool.
+• You are not having capabilities to use wait Statements(explicit,Page load timeout etc)
+• You have not implemented Page Object Model and not handled logs in scripts to write Reports which would help to understand the flow of testcases.
+• You have not implemented TestNG framework.
+• You have not implemented code to read data from spread sheets as well as from property files successfully
+• You are generating reports but not logging some information into reports
+• You are not using any Try catch blocks to handle exceptions.
+• You are not implemented code to run in multiple browsers.
+
+Overall your areas of improvement includes: 
+Basic selenium tool features, 
+Implementation of Page Object Model, 
+TestNG features, 
+Externalization of test
+data using spread sheets, 
+handle logs,
+exception handling, 
+define wait statements, 
+usage of Property files,
+framework design and 
+Collections
